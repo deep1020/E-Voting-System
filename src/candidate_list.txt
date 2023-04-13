@@ -1,0 +1,6 @@
+Mick,2,13
+Anne,4,7
+Herry,1,4
+John,6,9
+Smith,3,14
+Jack,5,1
